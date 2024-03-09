@@ -1,8 +1,7 @@
+console.log("ShrutiGitTesting1")
+
 // console.log("hello")
-
 // var myVariable 
-
-
 // console.log("my Variable is: "+myVariable)
 // myVariable = 2
 // console.log("my Variable is: "+myVariable)
