@@ -269,7 +269,11 @@ myArray = myArray.map(element=>
 	return element	
 })
 
+
+console.log("new branch created");
 console.log("updated array = "+myArray)
+
+
 
 
 
