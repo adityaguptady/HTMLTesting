@@ -277,3 +277,10 @@ console.log("updated array = "+myArray)
 
 
 
+
+
+function add()
+{
+	console.log("ALl about git")
+}
+add()
