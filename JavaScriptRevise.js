@@ -3,6 +3,13 @@
 // var myVariable 
 
 
+
+// THIS IS HELLO  HTML TESTING 
+
+console.log("THIS IS HELLO  HTML TESTING ");
+
+
+
 // console.log("my Variable is: "+myVariable)
 // myVariable = 2
 // console.log("my Variable is: "+myVariable)
