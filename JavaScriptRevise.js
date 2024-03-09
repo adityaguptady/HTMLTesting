@@ -277,6 +277,16 @@ myArray = myArray.map(element=>
 
 console.log("updated array = "+myArray)
 
+// Lines added by Ayush sharma
+
+function name() {
+	console.log("commit for check the commit push in second branch ayush aharma");
+}
+
+
+
+
+
 
 
 
