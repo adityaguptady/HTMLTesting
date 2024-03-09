@@ -271,6 +271,7 @@ myArray = myArray.map(element=>
 
 console.log("updated array = "+myArray)
 console.log("Hello");
+console.log("Hello world");
 
 
 
