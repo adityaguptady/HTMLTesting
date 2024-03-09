@@ -12,6 +12,7 @@
 // console.log("my Variable is: "+myVariable)
 // myVariable = 1.23
 // console.log("my Variable is: "+myVariable)
+console.log("my variable is :"+ myVariable)
 
 // let mylet
 
