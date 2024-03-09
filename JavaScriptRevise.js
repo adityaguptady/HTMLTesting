@@ -271,9 +271,22 @@ myArray = myArray.map(element=>
 
 console.log("updated array = "+myArray)
 
+function app()
+{
+	console.log("ALl about git")
+}
+app()
 
 
 
 
 
 
+
+function add()
+{
+	console.log("ALl about git")
+}
+add()
+
+console.log("again commit and push");
