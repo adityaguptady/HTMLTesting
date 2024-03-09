@@ -5,14 +5,11 @@
 //Git SetUp seasion
 console.log("GitgitSetupTest2 ")
 
-<<<<<<< HEAD
 
 
 
 
 
-=======
->>>>>>> 58adb6236366d0674e8cec0b3b2f3b9143ce0cb1
 console.log("my Variable is: "+myVariable)
 myVariable = 2
 console.log("my Variable is: "+myVariable)
@@ -22,11 +19,6 @@ myVariable = true
 console.log("my Variable is: "+myVariable)
 myVariable = 1.23
 console.log("my Variable is: "+myVariable)
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 58adb6236366d0674e8cec0b3b2f3b9143ce0cb1
 
 // let mylet
 
