@@ -2,16 +2,23 @@
 
 // var myVariable 
 
+//Git SetUp seasion
+console.log("GitgitSetupTest2 ")
 
-// console.log("my Variable is: "+myVariable)
-// myVariable = 2
-// console.log("my Variable is: "+myVariable)
-// myVariable = "string is here"
-// console.log("my Variable is: "+myVariable)
-// myVariable = true
-// console.log("my Variable is: "+myVariable)
-// myVariable = 1.23
-// console.log("my Variable is: "+myVariable)
+
+
+
+
+
+console.log("my Variable is: "+myVariable)
+myVariable = 2
+console.log("my Variable is: "+myVariable)
+myVariable = "string is here"
+console.log("my Variable is: "+myVariable)
+myVariable = true
+console.log("my Variable is: "+myVariable)
+myVariable = 1.23
+console.log("my Variable is: "+myVariable)
 
 // let mylet
 
