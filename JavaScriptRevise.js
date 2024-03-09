@@ -3,25 +3,17 @@
 // var myVariable 
 
 
+console.log("my Variable is: "+myVariable)
+myVariable = 2
+console.log("my Variable is: "+myVariable)
+myVariable = "string is here"
+console.log("my Variable is: "+myVariable)
+myVariable = true
+console.log("my Variable is: "+myVariable)
+myVariable = 1.23
+console.log("my Variable is: "+myVariable)
 
-// THIS IS HELLO  HTML TESTING 
-
-console.log("THIS IS HELLO  HTML TESTING ");
-console.log("first chenges in code--");
-
-
-
-// console.log("my Variable is: "+myVariable)
-// myVariable = 2
-// console.log("my Variable is: "+myVariable)
-// myVariable = "string is here"
-// console.log("my Variable is: "+myVariable)
-// myVariable = true
-// console.log("my Variable is: "+myVariable)
-// myVariable = 1.23
-// console.log("my Variable is: "+myVariable)
-
-// let mylet
+let mylet
 
 // console.log("my Variable is: "+mylet)
 // mylet = 2
