@@ -271,7 +271,11 @@ myArray = myArray.map(element=>
 
 console.log("updated array = "+myArray)
 
-
+function app()
+{
+	console.log("ALl about git")
+}
+app()
 
 
 
